@@ -16,6 +16,8 @@ Busquei no web.archive algumas referencias da época como fonte, cores e formata
 
 Como as imagens do perfil já estavam bem deterioradas precisei usar o app [Remini](https://play.google.com/store/apps/details?id=com.bigwinepot.nwdn.international&hl=pt_BR) para dar um upscale e não ficar tão estranho.
 
+Link para a [GitPage](https://andrafa.github.io/lino__creio_que_nao/)
+
 ---
 
 Termino com uma frase do **Frank Herbert** para tentar justificar tanto tempo gasto nisso:
